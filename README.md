@@ -1,6 +1,16 @@
 # itingsfbu
-- I'm currently working on ...Web Services
-- I'm currently learning ... Restful API
-- I'm looking to collanorated on ... open source
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=leemgzu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=leemgzu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]
+### Hi there :wave:
+<!--
+**msitu22/msitu22** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+-->
+- :telescope: I’m currently working on Web Service projects.
+- :seedling: I’m currently learning Cloud Security.
+- :dancers: I’m looking to collaborate on ...
+- :thinking_face: I’m looking for help with ...
+- :speech_balloon: Ask me about ...
+- :mailbox: How to reach me: ...
+- :smile: Pronouns: ...
+- :zap: Fun fact: ...
+My vibes are:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rqg5i540slknejv6wvjq4oo8z&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) (edited) 
